@@ -1,2 +1,2 @@
 #!/bin/bash
-chown sudo school vincent
+chown -h school vincent
